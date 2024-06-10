@@ -4,6 +4,7 @@ Este projeto utiliza uma variedade de bibliotecas Python para criar um modelo de
 
 
 # Bibliotecas Utilizadas
+
 Pandas: Usado para manipulação e análise de dados.
 Sklearn: Usado para várias tarefas de aprendizado de máquina, como embaralhamento de dados, codificação de rótulos, divisão de dados de treinamento e teste, escalonamento de recursos e geração de relatórios de classificação e matrizes de confusão.
 Seaborn e Matplotlib: Usados para visualização de dados.
@@ -13,6 +14,7 @@ Tqdm: Usado para exibir uma barra de progresso durante o treinamento do modelo.
 
 
 # Como Executar
-Clone este repositório.
-Instale as dependências necessárias usando pip: pip install -r requirements.txt.
-Execute o notebook Jupyter: jupyter notebook fase_05-01_perceptron_multicamadas.ipynb.
+
+1. Clone este repositório.
+2. Instale as dependências necessárias usando pip: pip install -r requirements.txt.
+3. Execute o notebook Jupyter: jupyter notebook fase_05-01_perceptron_multicamadas.ipynb.
